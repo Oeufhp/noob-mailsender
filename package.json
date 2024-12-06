@@ -6,7 +6,7 @@
     "start": "export DEBUG=myapp:* && node ./bin/www"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.4",
+    "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
     "express": "~4.21.2",
